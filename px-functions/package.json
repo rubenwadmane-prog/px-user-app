@@ -1,0 +1,9 @@
+{
+  "name": "px-functions",
+  "version": "1.0.0",
+  "description": "Vercel Serverless Functions for PX App",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {}
+}
